@@ -1,0 +1,95 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "NerdOptimize Dataset API",
+    "version": "1.0.0",
+    "description": "Simple read-only API for the NerdOptimize dataset."
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3000/api"
+    }
+  ],
+  "paths": {
+    "/services": {
+      "get": {
+        "summary": "List services",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/icp-profiles": {
+      "get": {
+        "summary": "List ICP profiles",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/case-studies": {
+      "get": {
+        "summary": "List case studies",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/frameworks": {
+      "get": {
+        "summary": "List frameworks",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/articles": {
+      "get": {
+        "summary": "List articles",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/categories": {
+      "get": {
+        "summary": "List category labels",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/metadata": {
+      "get": {
+        "summary": "Dataset metadata",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/faq": {
+      "get": {
+        "summary": "Short FAQ sample",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  }
+}

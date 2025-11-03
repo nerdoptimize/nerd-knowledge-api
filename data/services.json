@@ -1,0 +1,106 @@
+[
+  {
+    "slug": "seo-service",
+    "name": "SEO Services (End-to-End SEO)",
+    "category": "SEO",
+    "summary": "Data-driven SEO service designed to improve visibility, traffic, and conversions. Includes Technical SEO, On-page optimization, Content Strategy, and Authority building.",
+    "deliverables": [
+      "Technical & On-page SEO audit",
+      "Keyword & content gap analysis",
+      "Internal linking and topical map",
+      "Schema markup implementation",
+      "Monthly performance reports"
+    ],
+    "outcomes": [
+      "Sustainable organic growth",
+      "Improved search rankings",
+      "Enhanced crawlability and UX",
+      "Clear KPI tracking"
+    ],
+    "url": "https://nerdoptimize.com/seo/",
+    "status": "published"
+  },
+  {
+    "slug": "ai-search-optimization",
+    "name": "AI Search Optimization (AEO / Generative Engine Optimization)",
+    "category": "AI Search/AEO",
+    "summary": "Help your website become a trusted source for AI models like ChatGPT, Gemini, and Perplexity. We optimize your site for AI visibility and citations through structured data and LLM readiness.",
+    "deliverables": [
+      "Entity & authority audit",
+      "LLMs.txt creation and validation",
+      "Schema.org FAQPage, HowTo, and Organization markup",
+      "Content revamp for AI citation",
+      "AI mentions & traffic tracking dashboards"
+    ],
+    "outcomes": [
+      "Increased AI citations",
+      "Higher visibility in AI-generated answers",
+      "Entity-level authority improvement",
+      "Future-proof SEO strategy"
+    ],
+    "url": "https://nerdoptimize.com/ai-search/",
+    "status": "published"
+  },
+  {
+    "slug": "link-building-service",
+    "name": "Backlink & Authority Building Service",
+    "category": "SEO",
+    "summary": "White-hat link building campaigns that strengthen domain authority and improve SEO rankings with high-quality, relevant backlinks.",
+    "deliverables": [
+      "Backlink profile audit",
+      "Competitor link gap analysis",
+      "Outreach to authority domains",
+      "Content-driven link placements",
+      "Monthly link performance reporting"
+    ],
+    "outcomes": [
+      "Improved domain authority",
+      "Quality backlinks from trusted sites",
+      "Higher keyword rankings",
+      "Long-term SEO stability"
+    ],
+    "url": "https://nerdoptimize.com/backlink-service/",
+    "status": "published"
+  },
+  {
+    "slug": "cro-service",
+    "name": "Conversion Rate Optimization (CRO)",
+    "category": "CRO",
+    "summary": "Increase conversions by analyzing user behavior, testing variations, and optimizing website UX, CTAs, and funnels.",
+    "deliverables": [
+      "CRO audit & analytics setup",
+      "A/B and multivariate testing",
+      "Heatmap & session recordings",
+      "UX & form optimization",
+      "Conversion reporting dashboards"
+    ],
+    "outcomes": [
+      "Higher conversion rate",
+      "Improved lead quality",
+      "Reduced bounce rate",
+      "Data-backed CRO improvements"
+    ],
+    "url": "https://nerdoptimize.com/cro/",
+    "status": "published"
+  },
+  {
+    "slug": "seo-training",
+    "name": "SEO & Analytics Training",
+    "category": "Training",
+    "summary": "Customized SEO and analytics training for in-house teams. Learn practical frameworks for SEO strategy, AEO, and performance tracking.",
+    "deliverables": [
+      "Team workshops (on-site/online)",
+      "Custom learning materials & playbooks",
+      "Hands-on schema & analytics exercises",
+      "Performance review & feedback sessions"
+    ],
+    "outcomes": [
+      "In-house SEO capability",
+      "Team alignment with best practices",
+      "Data-driven SEO understanding",
+      "Practical application of SEO tools"
+    ],
+    "url": "https://nerdoptimize.com/seo-training/",
+    "status": "published"
+  }
+]

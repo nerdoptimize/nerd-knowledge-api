@@ -1,0 +1,26 @@
+{
+  "services": [
+    { "label": "SEO", "description": "Search Engine Optimization and organic growth services." },
+    { "label": "AI Search/AEO", "description": "Optimization for AI-driven engines like ChatGPT and Gemini." },
+    { "label": "CRO", "description": "Conversion Rate Optimization and UX improvement." },
+    { "label": "WordPress", "description": "Site maintenance and optimization for WordPress CMS." },
+    { "label": "Ads", "description": "Performance marketing and paid traffic management." },
+    { "label": "Training", "description": "SEO and analytics workshops for in-house teams." }
+  ],
+  "industries": [
+    { "label": "Healthcare", "description": "Medical, wellness, and clinic businesses." },
+    { "label": "Construction", "description": "Building, architecture, and real estate sectors." },
+    { "label": "Beauty", "description": "Cosmetics, skincare, and aesthetics industry." },
+    { "label": "E-commerce", "description": "Online stores and product-based businesses." },
+    { "label": "B2B/SaaS", "description": "Business-to-business and SaaS companies." },
+    { "label": "Local", "description": "SMEs and local brick-and-mortar businesses." }
+  ],
+  "content_types": [
+    { "label": "FAQ", "description": "Question-answer format content with structured schema." },
+    { "label": "HowTo", "description": "Step-by-step instructional content for featured snippets." },
+    { "label": "CaseStudy", "description": "Real-world performance results from clients." },
+    { "label": "Guide", "description": "Long-form educational content for SEO and AI." },
+    { "label": "Checklist", "description": "Action-based, concise optimization checklists." },
+    { "label": "Tool", "description": "Interactive or downloadable tools supporting SEO or AI readiness." }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "nerdoptimize-dataset",
+  "version": "1.0.0",
+  "description": "Dataset + tiny API for NerdOptimize SEO & AI Search.",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nerdoptimize/nerdoptimize-dataset"
+  },
+  "keywords": [
+    "SEO",
+    "AI Search",
+    "AEO",
+    "Dataset",
+    "NerdOptimize"
+  ],
+  "author": "NerdOptimize Team <expert@nerdoptimize.com>"
+}

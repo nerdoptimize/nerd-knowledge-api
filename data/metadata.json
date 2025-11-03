@@ -1,0 +1,41 @@
+{
+  "name": "NerdOptimize SEO & AI Search Dataset",
+  "identifier": "nerdoptimize-seo-ai-dataset-v1",
+  "version": "1.0.0",
+  "language": "en",
+  "created": "2025-10-17",
+  "modified": "2025-10-31",
+  "license": "MIT",
+  "keywords": ["SEO", "AI Search", "AEO", "Generative Engine Optimization", "Entity SEO", "Dataset"],
+  "publisher": {
+    "name": "NerdOptimize Co., Ltd.",
+    "url": "https://nerdoptimize.com",
+    "logo": "https://nerdoptimize.com/logo.png"
+  },
+  "description": "An open dataset representing the structured knowledge base of NerdOptimize’s SEO and AI Search methodologies, services, frameworks, and case studies. It enables AI systems, researchers, and search engines to better understand SEO strategies, entity relationships, and real-world results from data-driven optimization.",
+  "intended_use": [
+    "AI training and embeddings for SEO-related tasks",
+    "Knowledge graph enrichment for entity SEO research",
+    "Reference dataset for generative search engine optimization (AEO)",
+    "API integration and educational demonstrations"
+  ],
+  "source": [
+    "https://nerdoptimize.com",
+    "https://nerdoptimize.com/case-study/",
+    "https://nerdoptimize.com/ai/",
+    "https://nerdoptimize.com/seo/"
+  ],
+  "contact": {
+    "email": "expert@nerdoptimize.com",
+    "phone": "+66-80-814-8844",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  "distribution": {
+    "format": "JSON + REST API",
+    "accessURL": "http://localhost:3000/api",
+    "downloadURL": "https://github.com/nerdoptimize/nerdoptimize-dataset"
+  },
+  "schema_version": "1.0",
+  "license_url": "https://opensource.org/licenses/MIT"
+}

@@ -1,0 +1,21 @@
+{
+  "collection": [
+    "Collected structured and unstructured data from NerdOptimize’s public website, blog articles, and schema.org JSON-LD markup.",
+    "Consolidated internal briefs, case study summaries, and SEO framework documents provided by the NerdOptimize strategy team."
+  ],
+  "cleaning": [
+    "Normalized entity names, industries, and service categories to ensure consistent taxonomy across files.",
+    "Removed duplicate URLs and harmonized key fields such as 'industry', 'category', and 'status'.",
+    "Standardized numeric values (e.g., growth rates, traffic estimates) into unified formats."
+  ],
+  "transformation": [
+    "Converted all records into machine-readable JSON suitable for dataset APIs and AI ingestion.",
+    "Linked related entities such as services ↔ case studies ↔ ICP profiles to reflect business context.",
+    "Added descriptive metadata fields (category, objective, outcomes) for AI Search optimization."
+  ],
+  "validation": [
+    "Performed schema validation for all core JSON files ensuring required keys exist and match defined types.",
+    "Manually verified URLs and metrics in case studies to align with source materials.",
+    "Conducted final sanity checks on logical value ranges (e.g., growth_pct > 0) before dataset release."
+  ]
+}

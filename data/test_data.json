@@ -1,0 +1,79 @@
+{
+  "icp_profiles_sample": [
+    {
+      "id": "sme_th_local",
+      "name": "Thai SME & Local Business",
+      "pain_points": [
+        "Low organic traffic",
+        "Limited local visibility",
+        "Unclear analytics"
+      ],
+      "goals": [
+        "Rank on Google & appear in AI answers",
+        "Increase local calls & visits",
+        "Track conversions"
+      ],
+      "ideal_channels": [
+        "SEO",
+        "Local SEO",
+        "AI Search/AEO",
+        "Google Business Profile"
+      ],
+      "buying_committee": [
+        "Owner",
+        "Marketing Manager"
+      ],
+      "budget_range_thb": "50,000–250,000 / month"
+    }
+  ],
+  "services_sample": [
+    {
+      "slug": "full-stack-seo",
+      "name": "End‑to‑End SEO",
+      "summary": "Technical, On‑page, Content Strategy, Internal Linking, and Authority building across web properties.",
+      "deliverables": [
+        "SEO audit",
+        "Opportunity sizing",
+        "Content plan & briefs",
+        "Schema implementation",
+        "Monthly reporting"
+      ],
+      "outcomes": [
+        "Sustained organic growth",
+        "Improved rankings",
+        "Better crawlability & UX"
+      ]
+    },
+    {
+      "slug": "ai-search-aeo-geo",
+      "name": "AI Search / AEO (Generative Engine Optimization)",
+      "summary": "Make your site a reference for LLMs like ChatGPT, Gemini, and Perplexity using schema.org, LLMs.txt, and cite‑worthy content.",
+      "deliverables": [
+        "Entity & authority audit",
+        "LLMs.txt",
+        "FAQ/HowTo schemas",
+        "Content revamp for citations",
+        "AI mentions tracking"
+      ],
+      "outcomes": [
+        "Increased AI citations",
+        "Higher visibility in AI answers",
+        "Entity authority growth"
+      ]
+    }
+  ],
+  "faq_sample": [
+    {
+      "q": "How long until results in AI Search?",
+      "a": "Typically 3–6 months depending on site readiness and scope."
+    },
+    {
+      "q": "What is LLMs.txt?",
+      "a": "A protocol file that helps define how AI models can access and cite your content."
+    },
+    {
+      "q": "What makes NerdOptimize different from standard SEO agencies?",
+      "a": "We optimize for both Google Search and AI engines like ChatGPT and Perplexity, combining AEO and structured data frameworks."
+    }
+  ]
+}

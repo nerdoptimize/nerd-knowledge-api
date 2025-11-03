@@ -1,0 +1,137 @@
+[
+  [
+  {
+    "name": "Entity & Authority Audit",
+    "category": "Entity SEO",
+    "objective": "Strengthen brand credibility and trust signals across the web through entity alignment and authority signals.",
+    "steps": [
+      {
+        "title": "About & Org Schema",
+        "description": "Implement Organization, AboutPage, and Person schema to define clear entity relationships for search engines."
+      },
+      {
+        "title": "sameAs Trust Links",
+        "description": "Connect verified external profiles (LinkedIn, Crunchbase, Wikipedia, etc.) via sameAs markup to reinforce entity identity."
+      },
+      {
+        "title": "Directory Presence",
+        "description": "Ensure consistent NAP data and entity references across major directories and data providers."
+      }
+    ],
+    "outcomes": [
+      "Improved entity recognition in Knowledge Graphs",
+      "Higher trust and citation signals for AI Search",
+      "Consistent brand representation across the web"
+    ]
+  },
+  {
+    "name": "Cite-worthy Content System",
+    "category": "Content & AEO",
+    "objective": "Create content designed to earn citations from AI models and authoritative sites through factual and structured formats.",
+    "steps": [
+      {
+        "title": "FAQs",
+        "description": "Develop precise FAQ sections answering specific user or AI query intents with schema markup."
+      },
+      {
+        "title": "Fact Sheets",
+        "description": "Publish concise, data-backed fact sheets to support E-E-A-T and source trustworthiness."
+      },
+      {
+        "title": "HowTo",
+        "description": "Add actionable HowTo guides with proper schema to align with featured snippet and generative search formats."
+      },
+      {
+        "title": "Sources & Citations",
+        "description": "Provide credible references and outbound links to establish topical authority and reliability."
+      }
+    ],
+    "outcomes": [
+      "Higher likelihood of being cited by LLMs and AI engines",
+      "Improved organic visibility through structured content",
+      "Enhanced E-E-A-T and topical authority"
+    ]
+  },
+  {
+    "name": "Technical SEO Foundation",
+    "category": "Technical SEO",
+    "objective": "Lay the groundwork for crawlability, indexation, and performance optimization across all site templates.",
+    "steps": [
+      {
+        "title": "CWV (Core Web Vitals)",
+        "description": "Measure and optimize LCP, CLS, and INP for a fast and stable user experience."
+      },
+      {
+        "title": "Crawl Budget",
+        "description": "Improve internal linking and eliminate low-value URLs to maximize crawler efficiency."
+      },
+      {
+        "title": "Sitemaps",
+        "description": "Generate and validate XML/HTML sitemaps to help search engines discover key pages."
+      },
+      {
+        "title": "Robots & LLMs.txt",
+        "description": "Control crawler access via robots.txt and define AI access policies through LLMs.txt."
+      }
+    ],
+    "outcomes": [
+      "Faster crawl and index rates",
+      "Improved site health scores",
+      "Better readiness for AI Search and generative engines"
+    ]
+  },
+  {
+    "name": "Semantic Search Planning",
+    "category": "Semantic SEO",
+    "objective": "Design a semantic architecture that connects content topics and entities to improve discoverability and contextual relevance.",
+    "steps": [
+      {
+        "title": "Embeddings Clustering",
+        "description": "Use AI embeddings to cluster related keywords and map semantic intent."
+      },
+      {
+        "title": "Topic Mapping",
+        "description": "Build a hierarchical topic map that links parent and child entities within your content ecosystem."
+      },
+      {
+        "title": "Internal Linking",
+        "description": "Establish contextual internal links to distribute authority and reinforce topic relevance."
+      }
+    ],
+    "outcomes": [
+      "Enhanced semantic relationships between pages",
+      "Improved visibility in AI and voice search",
+      "Higher topical authority and entity coverage"
+    ]
+  },
+  {
+    "name": "Measurement & Reporting",
+    "category": "Analytics & Insights",
+    "objective": "Track performance metrics across SEO and AI visibility to measure ROI and continuous improvement.",
+    "steps": [
+      {
+        "title": "AI Mentions",
+        "description": "Monitor brand and content citations across AI engines like ChatGPT, Gemini, and Perplexity."
+      },
+      {
+        "title": "AI Traffic",
+        "description": "Measure referral traffic or impressions originating from AI-generated results."
+      },
+      {
+        "title": "Conversions",
+        "description": "Track conversion goals linked to organic and AI-driven sessions for business outcomes."
+      },
+      {
+        "title": "GSC & Analytics",
+        "description": "Integrate Google Search Console and Analytics data to analyze trends and performance metrics."
+      }
+    ],
+    "outcomes": [
+      "Holistic visibility across SEO and AI channels",
+      "Data-driven performance optimization",
+      "Clear ROI measurement for SEO initiatives"
+    ]
+  }
+]
+
+]

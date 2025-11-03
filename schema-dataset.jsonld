@@ -1,0 +1,25 @@
+{
+  "@context": "http://schema.org",
+  "@type": "Dataset",
+  "name": "NerdOptimize SEO & AI Search Dataset",
+  "description": "A machine-readable dataset describing NerdOptimize's services, methods, tools, FAQs and case-study outcomes for SEO and AI Search (AEO).",
+  "creator": {
+    "@type": "Organization",
+    "name": "NerdOptimize Co., Ltd.",
+    "url": "https://nerdoptimize.com",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Bangkok",
+      "addressCountry": "TH"
+    }
+  },
+  "inLanguage": "en",
+  "license": "https://opensource.org/licenses/MIT",
+  "url": "https://nerdoptimize.com/",
+  "distribution": [{
+    "@type": "DataDownload",
+    "encodingFormat": "application/zip",
+    "contentUrl": "https://example.com/nerdoptimize-dataset.zip"
+  }],
+  "keywords": ["SEO", "AEO", "AI Search", "LLMs.txt", "Schema.org", "CRO", "Thailand"]
+}

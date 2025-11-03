@@ -1,0 +1,48 @@
+[
+  {
+    "industry": "Healthcare",
+    "kpi": "Estimated organic visits/mo (Ahrefs)",
+    "before": 220000,
+    "after": 549000,
+    "growth_pct": 149.55,
+    "timeframe_months": "6–12",
+    "key_plays": [
+      "Topical authority model",
+      "Technical fixes",
+      "CRO uplift",
+      "Link building"
+    ],
+    "url": "https://nerdoptimize.com/case-study/seo-case-health-care/",
+    "status": "published"
+  },
+  {
+    "industry": "Construction",
+    "kpi": "Estimated organic visits/mo (Ahrefs)",
+    "before": 60000,
+    "after": 100000,
+    "growth_pct": 66.67,
+    "timeframe_months": "6–12",
+    "key_plays": [
+      "Technical hygiene",
+      "Internal linking",
+      "Content consolidation"
+    ],
+    "url": "https://nerdoptimize.com/case-study/seo-case-construction/",
+    "status": "published"
+  },
+  {
+    "industry": "Beauty",
+    "kpi": "Estimated organic visits/mo (Ahrefs)",
+    "before": 150000,
+    "after": 340000,
+    "growth_pct": 126.67,
+    "timeframe_months": "6–12",
+    "key_plays": [
+      "Content clusters",
+      "Entity building",
+      "Digital PR"
+    ],
+    "url": "https://nerdoptimize.com/case-study/seo-case-beauty/",
+    "status": "published"
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "id": "sme_th_local",
+    "name": "Thai SME & Local Business",
+    "industry": "Local",
+    "pain_points": [
+      "Low organic traffic",
+      "Limited local visibility",
+      "Unclear analytics"
+    ],
+    "goals": [
+      "Rank on Google & appear in AI answers",
+      "Increase local calls & visits",
+      "Track conversions"
+    ],
+    "ideal_channels": [
+      "SEO",
+      "Local SEO",
+      "AI Search/AEO",
+      "Google Business Profile"
+    ],
+    "buying_committee": [
+      {
+        "role": "Owner",
+        "responsibility": "Sets business goals, approves marketing spend, signs off on vendor selection.",
+        "decision_power": "Final",
+        "kpis": ["Revenue", "Leads/Calls", "Cost efficiency"]
+      },
+      {
+        "role": "Marketing Manager",
+        "responsibility": "Evaluates SEO proposals, coordinates implementation, tracks performance.",
+        "decision_power": "Shared",
+        "kpis": ["Organic traffic", "Local pack visibility", "CTR", "Conversions"]
+      }
+    ],
+    "budget_range_thb": "50,000–250,000 / month"
+  },
+  {
+    "id": "ecommerce_growth",
+    "name": "E-commerce companies",
+    "industry": "E-commerce",
+    "pain_points": [
+      "Thin product content",
+      "Duplicate categories",
+      "Slow site"
+    ],
+    "goals": [
+      "Grow non-brand revenue",
+      "Improve product/category rankings",
+      "Enhance CRO"
+    ],
+    "ideal_channels": [
+      "Technical SEO",
+      "Content & IA",
+      "Schema",
+      "CRO",
+      "Ads (optional)"
+    ],
+    "buying_committee": [
+      {
+        "role": "Head of E-commerce",
+        "responsibility": "Owns site P&L, prioritizes roadmap, evaluates SEO/CRO ROI.",
+        "decision_power": "Lead",
+        "kpis": ["Non-brand revenue", "AOV", "Conversion rate", "Page speed"]
+      },
+      {
+        "role": "CMO",
+        "responsibility": "Approves strategy and budget, aligns SEO with brand and growth targets.",
+        "decision_power": "Final",
+        "kpis": ["Marketing ROI", "Customer acquisition cost", "Share of search"]
+      },
+      {
+        "role": "SEO Manager (optional)",
+        "responsibility": "Oversees day-to-day SEO tasks, technical fixes, content optimization.",
+        "decision_power": "Contributor",
+        "kpis": ["Indexed pages", "Rankings", "Click-through rate", "Core Web Vitals"]
+      }
+    ],
+    "budget_range_thb": "100,000–500,000 / month"
+  },
+  {
+    "id": "b2b_saas",
+    "name": "B2B & SaaS",
+    "industry": "B2B/SaaS",
+    "pain_points": [
+      "Long sales cycle",
+      "Lack of entity authority",
+      "Low AI mentions"
+    ],
+    "goals": [
+      "Topical authority",
+      "Qualified demo leads",
+      "Be cited by LLMs"
+    ],
+    "ideal_channels": [
+      "AEO/AI Search",
+      "Content clusters",
+      "Schema (FAQ, HowTo)",
+      "Digital PR"
+    ],
+    "buying_committee": [
+      {
+        "role": "Founder/CEO",
+        "responsibility": "Sets growth targets and approves strategic vendors for demand generation.",
+        "decision_power": "Final (early stage) / Shared (growth stage)",
+        "kpis": ["Pipeline growth", "MQL→SQL rate", "Revenue"]
+      },
+      {
+        "role": "Demand Gen Lead",
+        "responsibility": "Owns lead-gen programs, aligns SEO/AEO with paid and lifecycle.",
+        "decision_power": "Lead",
+        "kpis": ["MQLs", "CPL", "Demo requests", "Organic-assisted pipeline"]
+      },
+      {
+        "role": "Product Marketing",
+        "responsibility": "Ensures messaging, positioning, and entity vocabulary align with content.",
+        "decision_power": "Contributor",
+        "kpis": ["Content adoption", "Positioning consistency", "Win rate support"]
+      }
+    ],
+    "budget_range_thb": "120,000–600,000 / month"
+  },
+  {
+    "id": "enterprise_multiloc",
+    "name": "Enterprise & Multi-location",
+    "industry": "Enterprise/Multi-location",
+    "pain_points": [
+      "Fragmented tracking",
+      "Inconsistent NAP",
+      "Complex CMS"
+    ],
+    "goals": [
+      "Local pack dominance",
+      "Centralized reporting",
+      "Core Web Vitals compliance"
+    ],
+    "ideal_channels": [
+      "Local SEO at scale",
+      "Schema automation",
+      "Internal linking",
+      "CRO"
+    ],
+    "buying_committee": [
+      {
+        "role": "Head of Digital",
+        "responsibility": "Owns digital roadmap, selects platforms and vendors, ensures cross-team alignment.",
+        "decision_power": "Lead",
+        "kpis": ["Organic sessions", "Local impressions", "Page speed", "Uptime"]
+      },
+      {
+        "role": "SEO Lead",
+        "responsibility": "Defines technical and content SEO standards, manages execution across locations.",
+        "decision_power": "Shared",
+        "kpis": ["Indexed coverage", "CWV pass rate", "Rankings by market", "Internal link health"]
+      },
+      {
+        "role": "Analytics Manager",
+        "responsibility": "Owns tagging, dashboards, and attribution for SEO & AI visibility.",
+        "decision_power": "Contributor",
+        "kpis": ["Data completeness", "Attribution accuracy", "Reporting latency"]
+      }
+    ],
+    "budget_range_thb": "250,000–1,200,000 / month"
+  }
+]
