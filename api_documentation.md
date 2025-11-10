@@ -48,5 +48,3 @@ Base URL: `http://localhost:3000/api`
 **สรุป**: เพิ่มตัวอย่างการใช้ POST, การจัดการ Error, และการกรองข้อมูลผ่านพารามิเตอร์ต่าง ๆ
 
 ---
-
-### ถ้าพร้อมแล้ว เราจะไปที่ **Case Studies (case_studies.json)**:contentReference[oaicite:1]{index=1}กันต่อเลยไหมครับ?
